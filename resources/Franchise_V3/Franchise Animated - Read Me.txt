@@ -1,0 +1,27 @@
+Thank you for downloading Franchise Animated 
+
+-
+
+This animated typeface works with Font Manager or our free tool Animography Controller.
+Find those at https://animography.net/collections/extras
+
+-
+
+Terms and conditions of our End User License Agreement (included in the download) apply.
+
+-
+
+Franchise - Version history
+
+V1 - 16/02/2013
+Initial version
+
+V2 - 21/11/2013
+Bugfixes
+
+V3 - 31/05/2017
+Prepared for Font Manager & Animography Controller
+Added kerning data
+Added pseudo controllers
+Added credits per character in the comment fields
+Added JSX-format
